@@ -1,11 +1,7 @@
-import './App.css';
+import Body from "./components/Body";
 
 function App() {
-  return (
-    <div className="text-5xl font-bold text-green-800">
-      NAMASTE EVERYONE
-    </div>
-  );
+  return <Body></Body>;
 }
 
 export default App;
