@@ -4,6 +4,12 @@
 - npm install -D tailwindcss
 - npx tailwindcss init
 
+# firebase related stuff
+
+0. npm install -g firebase-tools
+1. firebase login
+2. firebase init and then select hoisting
+3. firebase deploy
 
 # routing
 - npm install -D react-router-dom
